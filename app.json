@@ -1,7 +1,7 @@
 {
-  "name": "TitaniumPhoenix",
-  "description": "TitaniumNetwork's Flagship Proxy Site.",
+  "name": "Pretzels",
+  "description": "Saltiest Proxy Site Around.",
   "repository": "https://github.com/titaniumnetwork-dev/phoenix-reborn",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "logo": "https://images.squarespace-cdn.com/content/v1/50eb2c61e4b0e6a1b5e56397/1383051909818-23HH7GV9UDP4U5LJKE1G/ke17ZwdGBToddI8pDm48kBcskYVdOnGrITT4XAuxlvNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFPBVw8nyxpiNekvHQuHpvLcQ7cIRawe_qJ-SQx7BgfKqQvevUbj177dmcMs1F0H-0/original.png",
   "keywords": ["proxy", "filter", "bypass"]
 }
